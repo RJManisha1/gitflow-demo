@@ -1,4 +1,4 @@
 Student Registration Feature
 Name: RJMANISHA
 Course: DevOps
-Status:  Feature Two
+Status: Feature One and Feature Two
